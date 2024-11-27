@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: [Month Day, Year]_
+_Last updated: November 28, 2024
 
 Welcome to **SudokuGo** ("we", "our", or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application **SudokuGo** ("the App"). Please read this Privacy Policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
